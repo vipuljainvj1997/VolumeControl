@@ -18,7 +18,7 @@ In this project, i have used Mediapipe Library which would ensure precise detect
 - <b>Windows 10</b> (21H2)
 
 <p align="center">
-Peoject Snapshots: <br/>
-<img src="https://imgur.com/BBiPWZs" height="80%" width="80%" alt="Few Snapshots of the volume being controlled by Fingers"/>
-<br />
+Project Snapshots: <br/>
+<a href="https://imgur.com/a/nJtPZbH">Few Snapshots of the volume being controlled by Fingers</a>
+
 
